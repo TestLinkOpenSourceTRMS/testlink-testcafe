@@ -1,4 +1,5 @@
 clear
+. ./setenv.sh
 
 WHAT_TO_RUN=$1
 #TESTCAFE='testcafe --skip-js-errors chrome:headless '

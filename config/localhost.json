@@ -1,0 +1,4 @@
+{
+  "thisFileIs": "configuration for localhost", 
+  "baseURL": "http://localhost/testlink/login.php",
+}
